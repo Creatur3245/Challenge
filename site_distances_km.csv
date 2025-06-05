@@ -1,0 +1,16 @@
+From,To,Distance_km
+Anomaly #1,Anomaly #2,18.08
+Anomaly #1,Anomaly #3,63.07
+Anomaly #1,Anomaly #4,108.52
+Anomaly #1,Anomaly #5,85.17
+Anomaly #1,Kuhikugu,677.66
+Anomaly #2,Anomaly #3,47.62
+Anomaly #2,Anomaly #4,90.8
+Anomaly #2,Anomaly #5,67.49
+Anomaly #2,Kuhikugu,694.34
+Anomaly #3,Anomaly #4,51.11
+Anomaly #3,Anomaly #5,52.16
+Anomaly #3,Kuhikugu,720.02
+Anomaly #4,Anomaly #5,42.6
+Anomaly #4,Kuhikugu,770.48
+Anomaly #5,Kuhikugu,761.13
